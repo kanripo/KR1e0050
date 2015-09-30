@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋通說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:14:27.802961
+#+PROPERTY: ID KR1e0050
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1e0050_WYG_009-1a>¶
 欽定四庫全書¶
 　春秋通説卷九　　　　　宋　黃仲炎　撰¶
@@ -398,4 +400,3 @@
 衛侯邾子齊崔杼同盟于虛朾丁未葬我君成公¶
 　¶
 　春秋通説卷九¶
-

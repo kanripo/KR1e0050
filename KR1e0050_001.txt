@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋通說
-#+DATE: 2015-09-23 09:39:49
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:14:27.657565
+#+PROPERTY: ID KR1e0050
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0050_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋通説卷一　　　　　宋　黄仲炎　撰¶
@@ -560,4 +562,3 @@
 　爾隱之不書葬仇人當國不以禮葬之也是皆摭其¶
 　實而已矣¶
 　春秋通說卷一¶
-
